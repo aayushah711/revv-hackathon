@@ -1,13 +1,13 @@
 import React from 'react';
 import './App.css';
-import AddClient from "./Components/AddClient"
+import Routes from './Routing/Routes';
 
 function App() {
-  return (
-    <div>
-      <AddClient />
-    </div>
-  );
+	return (
+		<div>
+			<Routes />
+		</div>
+	);
 }
 
 export default App;
