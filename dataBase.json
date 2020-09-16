@@ -50,6 +50,24 @@
         "stocks": []
       },
       "manager1": "manager1"
+    },
+    {
+      "id": "7dffc067-fdc8-43c0-8028-4942a29c50d3",
+      "name": "Hall",
+      "capital": {
+        "cash": 87910000,
+        "stocks": []
+      },
+      "manager1": "manager1"
+    },
+    {
+      "id": "a71c8791-2fef-490f-8b33-ea691e1d814b",
+      "name": "Client2",
+      "capital": {
+        "cash": 8900000,
+        "stocks": []
+      },
+      "manager1": "manager1"
     }
   ]
 }

@@ -1,0 +1,27 @@
+.navDiv{
+    background: teal;
+    width: 98%;
+    padding: 1%;
+    text-align: center;
+}
+
+.navDiv > * {
+    color: white;
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+.form{
+    text-align: center;
+}
+
+.form > * {
+    margin-bottom: 1%;
+}
+
+@media (max-width:700px){
+    .navDiv{
+        padding: 3%;
+        width: 95%;
+    }
+}

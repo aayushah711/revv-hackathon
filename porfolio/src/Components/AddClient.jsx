@@ -2,6 +2,7 @@ import React from "react"
 import { useState } from "react"
 import { v4 as uuid } from "uuid"
 import axios from "axios"
+import style from "./Style/style.module.css"
 
 export default function AddUser() {
 
@@ -45,15 +46,21 @@ export default function AddUser() {
         <div>
             {
                 status ?
-                    <form onSubmit={handleSubmit}>
-                        <input type="text" placeholder="Enter the Name" value={name} onChange={e => setName(e.target.value)} />
-                        <input type="number" placeholder="Enter the Amount" value={cash} onChange={e => setCash(e.target.value)} />
-                        <input type="submit" value="ADD Client" />
-                    </form>
+                    <>
+                        <h1 style={{ textAlign: "center", color: "teal" }}>Client Details</h1>
+                        <form onSubmit={handleSubmit} className={style.form}>
+                            <input type="text" placeholder="Enter the Name" value={name} onChange={e => setName(e.target.value)} /><br />
+                            <input type="number" placeholder="Enter the Amount" value={cash} onChange={e => setCash(e.target.value)} /><br />
+                            <input type="submit" value="ADD Client" />
+                        </form>
+                    </>
                     :
                     <>
-                        <input type="text" placeholder="Enter the manager Name" value={manager} onChange={e => setManager(e.target.value)} />
-                        <button onClick={handleManager}>Confirm</button>
+                        <h1 style={{ textAlign: "center", color: "teal" }}>Welcome</h1>
+                        <div className={style.form}>
+                            <input type="text" placeholder="Enter the manager Name" value={manager} onChange={e => setManager(e.target.value)} /><br />
+                            <button onClick={handleManager}>Confirm</button>
+                        </div>
                     </>
 
             }
