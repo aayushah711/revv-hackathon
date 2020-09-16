@@ -51,10 +51,10 @@ export default function AddUser() {
                         <input type="submit" value="ADD Client" />
                     </form>
                     :
-                    <form onSubmit={handleManager}>
+                    <>
                         <input type="text" placeholder="Enter the manager Name" value={manager} onChange={e => setManager(e.target.value)} />
-                        <input type="submit" value="confirm" />
-                    </form>
+                        <button onClick={handleManager}>Confirm</button>
+                    </>
 
             }
         </div>

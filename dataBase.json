@@ -25,25 +25,7 @@
       "managerId": "manager1"
     },
     {
-      "id": "a73ee5ff-9dd2-4686-b3a8-57cb4e26e5e3",
-      "name": "Soumitaw3",
-      "capital": {
-        "cash": 0,
-        "stocks": []
-      },
-      "manager1": "manager1"
-    },
-    {
-      "id": "8069ab30-1d07-4523-8af5-cd708db0eaa9",
-      "name": "AAAu",
-      "capital": {
-        "cash": 900000,
-        "stocks": []
-      },
-      "manager1": "manager1"
-    },
-    {
-      "id": "066506d6-a540-46ec-b73a-7e9b5fcd5870",
+      "id": "ede66b9d-4ae8-4da8-bd9f-18e8e28b5a1e",
       "name": "",
       "capital": {
         "cash": 0,
@@ -52,10 +34,19 @@
       "manager1": "manager1"
     },
     {
-      "id": "c4454812-66f1-4b44-9732-da80a65da816",
-      "name": "Sobi",
+      "id": "d8767616-6442-4ffb-86f6-029dc7a36eec",
+      "name": "ksdfh",
       "capital": {
-        "cash": 2500000,
+        "cash": 9867589,
+        "stocks": []
+      },
+      "manager1": "manager1"
+    },
+    {
+      "id": "469cdebe-4256-4539-858e-980ee1e4e0be",
+      "name": ";gfhk",
+      "capital": {
+        "cash": 9876543,
         "stocks": []
       },
       "manager1": "manager1"
