@@ -19,9 +19,69 @@
     margin-bottom: 1%;
 }
 
-@media (max-width:700px){
+.btn, .btns > button{
+    background-color: teal;
+    color: white;
+    font-weight: bolder;
+    border: 1px solid teal;
+    padding: 0.5%;
+    padding-left: 2%;
+    padding-right: 2%;
+    border-radius: 5px;
+}
+
+.btns{
+    text-align: center;
+}
+
+.btns > button{
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+.clients {
+    display: flex;
+    flex-direction: row;
+    width: 30%;
+    padding: 1%;
+    border-radius: 25px;
+    margin-bottom: 1%;
+    margin-left: 33%;
+    background: whitesmoke;
+}
+
+.clients > div:nth-child(1){
+    width: 70%;
+    padding-left: 5%;
+    font-weight: bolder;
+    /* border: 1px solid black; */
+}
+
+.clients > div:nth-child(2){
+    width: 30%;
+}
+
+@media (max-width:900px){
     .navDiv{
         padding: 3%;
         width: 95%;
+    }
+
+    .form > * {
+        margin-bottom: 3%;
+    }
+
+    .btn, .btns > button{
+        padding: 1%;
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+
+    .clients{
+        width: 85%;
+        margin-left: 5%;
+        margin-bottom: 3%;
+        padding: 3%;
+        border-radius: 15px;
     }
 }
