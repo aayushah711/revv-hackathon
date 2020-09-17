@@ -1,0 +1,38 @@
+[
+    {
+        "id" : 1,
+        "name" : "Women's Tree Dashers",
+        "sole" : "Crest (White Sole)",
+        "price" : "$125"
+    },
+    {
+        "id" : 2,
+        "name" : "Women's Tree Dashers",
+        "sole" : "Erupt (Grey Sole)",
+        "price" : "$125"
+    },
+    {
+        "id" : 3,
+        "name" : "Women's Tree Dashers",
+        "sole" : "Freeze (Light Blue Sole)",
+        "price" : "$125"
+    },
+    {
+        "id" : 4,
+        "name" : "Women's Tree Dashers",
+        "sole" : "Seek (Beige Sole)",
+        "price" : "$125"
+    },
+    {
+        "id" : 5,
+        "name" : "Women's Tree Dashers",
+        "sole" : "Burst (White Sole)",
+        "price" : "$125"
+    },
+    {
+        "id" : 6,
+        "name" : "Women's Tree Dashers",
+        "sole" : "Ascend (Dark Red Sole)",
+        "price" : "$125"
+    }
+]

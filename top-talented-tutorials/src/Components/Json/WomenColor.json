@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name" : "Men's Tree Runners",
+        "color" : "Lychee (White Sole)",
+        "price" : "$95"
+    },
+    {
+        "id": 2,
+        "name" : "Men's Wool Runners",
+        "color" : "Blueberry (Cream Sole)",
+        "price" : "$95"
+    },
+    {
+        "id": 3,
+        "name" : "Men's Tree Loungers",
+        "color" : "Peppercorn (Black Sole)",
+        "price" : "$95"
+    },
+    {
+        "id": 4,
+        "name" : "Men's Wool Loungers",
+        "color" : "Pitaya (Cream Sole)",
+        "price" : "$95"
+    },
+    {
+        "id": 5,
+        "name" : "Women's Tree Loungers",
+        "color" : " Peppercorn (Black Sole)",
+        "price" : "$95"
+    },
+    {
+        "id" : 6,
+        "name" : "Women's Tree Skippers",
+        "color" : "Lychee (White Sole)",
+        "price" : "$ 95"
+    },
+    {
+        "id": 7,
+        "name" : "Men's Wool Runner Mizzles",
+        "color" : "Peppercorn (Dark Grey Sole)",
+        "price" : "$115"
+    },
+    {
+        "id": 8,
+        "name" : "Men's Wool Runner-up Mizzles",
+        "color" : "Medjool (Cream Sole)",
+        "price" : "$135"
+    }
+]

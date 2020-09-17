@@ -1,0 +1,382 @@
+.nav{
+    background: white;
+    position: fixed;
+    width: 100%;
+    top: 0%;
+    left: 0%;
+    padding: 0.7%;
+    box-shadow: 1px 1px 1px 1px rgba(128, 128, 128, 0.493);
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+
+.nav > div:nth-child(1){
+    width: 10%;
+    text-align: left;
+    margin-left:1%;
+    padding-top: 0.5%;
+}
+
+.nav > div:nth-child(2){
+    width: 60%;
+}
+
+.nav > div:nth-child(3){
+    width: 30%;
+    text-align: right;
+    margin-right: 2%;
+}
+
+.nav >div> *{
+    margin: 2.5%;
+    color: black;
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.nav >div > *:hover{
+    text-decoration: underline;
+}
+
+.foot{
+    background: #212a2f;
+    padding: 3%;
+    color: white;
+}
+
+.foot > div{
+    width: 70%;
+    margin-left: 15%;
+}
+
+.foot > div > input{
+    background: rgba(255, 255, 255, 0.377);
+    border: 0px solid rgba(255, 255, 255, 0.377);
+    border-bottom: 2px solid white;
+    padding: 1%;
+}
+
+.foot > div > button {
+    background: rgba(255, 255, 255, 0.377);
+    color: white;
+    font-weight: bolder;
+    border:1px solid rgba(255, 255, 255, 0.377);
+    padding:1%;
+    border-radius: 4px;
+    margin-left: 0.5%;
+}
+
+.foot1{
+    display: flex;
+    flex-direction: row;
+    margin-top: 4%;
+}
+
+.foot1 > div{
+    width: 20%;
+}
+
+.foot1 > div > p{
+    font-size: 12px;
+}
+
+.foot2{
+    display: flex;
+    flex-direction: row;
+    margin-top: 4%;
+    margin-bottom: 5%;
+}
+
+.div1{
+    width: 30%;
+}
+
+.div2{
+    width: 20%;
+    text-align: center;
+}
+
+.div3{
+    width: 50%;
+}
+
+.foot2 > div > p{
+    font-size: 12px;
+}
+
+.foot2 > div > img{
+    margin-right: 3%;
+}
+
+.text{
+    position: absolute;
+    top: 30%;
+    left: 30%;
+    text-align: center;
+    transform: skewY(-10deg);
+    color: white;
+    font-size: 60px;
+    font-weight: bolder;
+}
+
+.store {
+    padding:2%;
+}
+
+.store > div{
+    width: 70%;
+    margin-left: 15%;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+
+.store > div > div{
+    width: 50%;
+    padding: 1%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.our{
+    margin-top: 3%;
+    text-align: center;
+}
+
+.our > *{
+    margin-left: 1.5%;
+    margin-right: 1.5%;
+    text-decoration: none;
+    color: #212a2f;
+    border: 1px solid #212a2f;
+    font-weight: bolder;
+    padding: 0.7%;
+    padding-right: 1.5%;
+    padding-left: 1.5%;
+    border-radius: 5px;
+}
+
+.our > *:hover{
+    background: #212a2f;
+    color: white;
+}
+
+.btn1{
+    background: white;
+    color: #212a2f;
+    border: 1px solid #212a2f;
+    padding:2%;
+    font-weight: bolder;
+    padding-left: 4%;
+    margin-top: 4%;
+    padding-right: 4%;
+}
+
+.btn1:hover{
+    background: #212a2f;
+    color: white;
+}
+
+.btn2{
+    background: white;
+    color: #212a2f;
+    margin-top: 4%;
+    padding: 2%;
+    border:1px solid white;
+    font-weight: bolder;
+    padding-left: 6%;
+    padding-right: 6%;
+}
+
+.btn2:hover{
+    background: #212a2f;
+    border: 1px solid #212a2f;
+    color: white;
+}
+
+.btn4{
+    background: white;
+    color: #212a2f;
+    margin-top: 4%;
+    padding: 1%;
+    border:1px solid white;
+    font-weight: bolder;
+    padding-left: 6%;
+    padding-right: 6%;
+}
+
+.btn4:hover{
+    background: #212a2f;
+    color: white;
+}
+
+.links > *{
+    margin-bottom:4%;
+    color: black;
+    text-decoration: none;
+}
+
+.links:hover{
+    text-decoration: underline;
+}
+
+.linkDiv > *{
+    color: black;
+    text-decoration: none;
+}
+
+.linkDiv > *:hover{
+    text-decoration: underline;
+}
+
+.btn5{
+    background: #212a2f;
+    color: white;
+    margin-top: 8%;
+    padding: 4%;
+    border:1px solid #212a2f;
+    font-weight: bolder;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+
+.btn5:hover{
+    background: white;
+    color: #212a2f;
+}
+
+
+.menD{
+    color:black;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+.menD:hover{
+    text-decoration: underline;
+}
+
+.blue{
+    padding: 0.2%;
+    padding-left: 2%;
+    padding-right: 2%;
+    background: blue;
+    color: blue;
+    border-radius: 50%;
+}
+
+.black{
+    padding: 0.2%;
+    padding-left: 2%;
+    padding-right: 2%;
+    background: black;
+    color: black;
+    border-radius: 50%;
+}
+
+.white{
+    padding: 0.2%;
+    padding-left: 2%;
+    padding-right: 2%;
+    background: white;
+    color: white;
+    border:1px solid grey;
+    border-radius: 50%;
+}
+.grey{
+    padding: 0.2%;
+    padding-left: 2%;
+    padding-right: 2%;
+    background: grey;
+    color: grey;
+    border-radius: 50%;
+}
+.beige{
+    padding: 0.2%;
+    padding-left: 2%;
+    padding-right: 2%;
+    background: beige;
+    color: beige;
+    border:1px solid grey;
+    border-radius: 50%;
+}
+.red{
+    padding: 0.2%;
+    padding-left: 2%;
+    padding-right: 2%;
+    background: red;
+    color: red;
+    border-radius: 50%;
+}
+.yellow{
+    padding: 0.2%;
+    padding-left: 2%;
+    padding-right: 2%;
+    background: yellow;
+    color: yellow;
+    border-radius: 50%;
+}
+.pink{
+    padding: 0.2%;
+    padding-left: 2%;
+    padding-right: 2%;
+    background: pink;
+    color: pink;
+    border-radius: 50%;
+}
+.purple{
+    padding: 0.2%;
+    padding-left: 2%;
+    padding-right: 2%;
+    background: purple;
+    color: purple;
+    border-radius: 50%;
+}
+.green{
+    padding: 0.2%;
+    padding-left: 2%;
+    padding-right: 2%;
+    background: green;
+    color: green;
+    border-radius: 50%;
+}
+
+.account{
+    margin-top: 8%; 
+    margin-left: 21%;
+    padding: 4%;
+    width: 50% ;
+    border: 1px solid black;
+    border-radius: 5px; 
+    display: flex ;
+    flex-direction: row
+}
+
+.cart{
+    display : flex;
+    flex-direction: row;
+    width: 30%;
+    padding : 1%;
+    margin-left: 33%;
+    border-bottom:1px solid black;
+    margin-top: 2%;
+}
+
+.cart > div:nth-child(1){
+    width: 40%;
+}
+
+.cart > div:nth-child(2){
+    width: 55%;
+}
+
+.cart > div:nth-child(3){
+    width: 5%;
+}
+
+.cart > div > button{
+    border:1px solid white;
+    background: white;
+}

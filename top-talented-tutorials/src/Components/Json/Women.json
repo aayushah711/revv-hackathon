@@ -1,0 +1,100 @@
+[
+    {
+        "id" : 1,
+        "name" : "Women's Tree Dashers",
+        "price" : "$125",
+        "color" : "Obsidian (Black Sole)",
+        "rating" : 94,
+        "rate" : 4.9
+    },
+    {
+        "id" : 2,
+        "name" : "Everyday Sneakers",
+        "product" : [
+            {
+                "name" : "Women's Tree Runners",
+                "sub" : "Our everyday sneaker made with breezy eucalyptus tree.",
+                "price" : "$95",
+                "sole" : "Kauri Marine Blue (White Sole)"
+            },
+            {
+                "name" : "Women's Wool Pipers",
+                "sub" : "Our low top sneaker made with cozy merino wool. ",
+                "price" : "$95",
+                "sole" : "Dapple Grey (White Sole)"
+            },
+            {
+                "name" : "Women's Wool Runners",
+                "sub" : "Our original everyday sneaker made with cozy merino wool.",
+                "price" : "$95",
+                "sole" : "Natural Grey (Light Grey Sole)"
+            },
+            {
+                "name" : "Women's Wool Runner Mizzles",
+                "sub" : "Our weather-ready sneaker made with merino wool and Puddle Guard™.",
+                "price" : "$115",
+                "sole" : "Natural Grey (Cream Sole)"
+            }
+        ]
+    },
+    {
+        "id" : 3,
+        "name" : "Women's Tree Skippers",
+        "price" : "$95",
+        "color" : "Charcoal (Charcoal Sole)",
+        "rating" : 126,
+        "rate" : 4.8
+    },
+    {
+        "id" : 4,
+        "name" : "Slip-Ons",
+        "product" : [
+            {
+                "name" : "Women's Wool Loungers",
+                "sub" : "Our casual slip-on made with cozy merino wool.",
+                "price" : "$95",
+                "sole" : "Natural Grey (Dark Grey Sole)"
+            },
+            {
+                "name" : "Women's Tree Loungers",
+                "sub" : "Our casual slip-on made with breezy eucalyptus tree",
+                "price" : "$95",
+                "sole" : "Dapple Grey (White Sole)"
+            }
+        ]
+    },
+    {
+        "id" : 5,
+        "name" : "Women's Tree Toppers",
+        "price" : "$58",
+        "color" : "Kauri Jo (Charcoal Upper / White Sole)",
+        "rating" : 57,
+        "rate" : 4.8
+    },
+    {
+        "id" : 6,
+        "name" : "Weather Repellent Shoes",
+        "product" : [
+            {
+                "name" : "Women's Wool Runner Mizzles",
+                "sub" : "Our weather-ready sneaker made with merino wool and Puddle Guard™.",
+                "price" : "$95",
+                "sole" : "Natural Grey (Cream Sole)"
+            },
+            {
+                "name" : "Women's Wool Runner-up Mizzles",
+                "sub" : "Our weather-ready high top made with merino wool and Puddle Guard™.",
+                "price" : "$95",
+                "sole" : "Natural Grey (Light Grey Sole)"
+            }
+        ]
+    },
+    {
+        "id" : 7,
+        "name" : "Women's Tree Breezers",
+        "price" : "$95",
+        "color" : "Heathered Black (Black Sole)",
+        "rating" : 183,
+        "rate" : 4.8
+    }
+]

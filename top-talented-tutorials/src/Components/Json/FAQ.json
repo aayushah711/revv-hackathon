@@ -1,0 +1,117 @@
+[
+    {
+        "id" : 1,
+        "que": "How do your shoes fit?",
+        "ans" : "Sizing varies among our styles, but all of our shoes are medium width and most are full sizes only. Please note that we now do include half sizes in our Tree Breezers and Dashers!\nThe Wool collection starts out a little snug and then stretches naturally, while the Tree material is super accommodating, but will fit similarly over time as it retains shape.\nWe've found most full-size customers stick with their full size in both materials. If you're a half size, we've found most customers size up in every silhouette beside the Tree Runners. If you have a wider foot and you're a half size, we'd suggest sizing up to the next full size in everything!\nStill not sure? We'd love to talk to you about it! Reach out to one of our fit specialists at help@allbirds.com for some personalized advice!"
+    },
+    {
+        "id" : 2,
+        "que": "Will my shoes stretch?",
+        "ans" : "Great question! If your Wool shoes are a bit snug to start, you can expect them to stretch about a quarter inch after a few weeks of wear. In contrast, your Tree shoes will likely retain their original shape. Either way, we recommend wearing them for 1-2 weeks to break in. Pro tip: trying them with socks can also help the shoes break in more easily!\nPlease feel free to give them a try in the wild during your 30-day no-questions-asked trial period!"
+    },
+    {
+        "id" : 3,
+        "que" : "Do your shoes have good arch support?",
+        "ans" : "Our padded insole is made from a castor bean oil blend with a wool lining topper. This cushioned insert has very noticeable arch support compared to minimalist shoes :\nThe Runner style has about a 15mm heel-to-toe drop, which means it has a bit larger arch in comparison to the Lounger, Skipper, Breezer and Topper, which have about a 2mm drop. Our Dashers have a 7mm drop with medium contoured arch support built in.\nFor customers looking to use their own inserts or orthotics, our insole is easily removable to make these adjustments. However, some customers have noticed that they do not need to use their orthotics given the level of cushion, so it's worth a try!"
+    },
+    {
+        "id" :4,
+        "que" : "How do your socks fit?",
+        "ans" : "Our Allbirds Trino™ Socks are true to size for most customers, so your normal sock size should be a happy fit here too. Our socks run from S - XL, and there’s this handy (footy?) chart below to help you find the best fit :) \nWomen’s Sizes: S (5-7), M (8-10), L (11)\nMen’s Sizes: M (7-8), L (9-12), XL (13-14)"
+    },
+    {
+        "id" : 5,
+        "que" : "How do I clean my Allbirds?",
+        "ans" : "If your Wool or Tree shoes start to feel a little less than fresh, throw them in the washing machine on the wool or gentle cycle. But first, be sure to remove the insoles and laces. For the best results, use your favorite gentle detergent and a delicates bag. \nDon’t forget to air dry your Allbirds just like in the good ol' days—and whatever you do, avoid the dryer and bleach at all costs!\nFor more information about shoe care, check out these instructions!"
+    },
+    {
+        "id" : 6,
+        "que" : "Can I return or exchange an in store purchase online?",
+        "ans" : "Sure can! Please reach out via help@allbirds.com with:\n- your order number (will start with a 64)\n- the address where you will be shipping the shoes from\n- whether you’d like a refund or an exchange\n- if an exchange, please provide the size, color, and style of shoe you would like\nOnce we have your info, we'll email a prepaid return label which can be used at FedEx or USPS."
+    },
+    {
+        "id" : 7,
+        "que" : "How do I make a gift exchange?",
+        "ans" : "You sure can! You can start the process by using this following this gift exchange link! All you need is your order number which you can find on the original shipping label next to Allbirds Order (it usually starts with 64) or, if you received a gift note in your package, the order number should be printed on the back of the note"
+    },
+    {
+        "id" : 8,
+        "que" : "What is your return policy?",
+        "ans" : "We offer a 30-day trial period. You can return or exchange your shoes for free with no questions asked, even if you've worn them out in the wild. For returns and exchanges, click here. \nPlease note that socks, underwear and bralettes must be unworn and undamaged in their original packaging within 30 days and all other accessories are final sale. Lastly, refunds must be requested in the same country as the original purchase."
+    },
+    {
+        "id" : 9,
+        "que" : "When can I expect my refund?",
+        "ans" : "Hang tight, it can take our warehouse up to two weeks to receive and process your return. We'll be sure to send a refund notification email as soon as we've issued your refund!"
+    },
+    {
+        "id" : 10,
+        "que" : "Does Allbirds offer discount codes or coupons?",
+        "ans" : "At Allbirds, we don’t believe in discounts. Why, you ask? Because we work hard every day to make premium-quality shoes that look great and feel amazing (think cashmere sweater, but for your feet!) - all while minimizing our impact on the planet and cost to you. That’s the beauty of selling directly to our fans!\nIf you choose to make a purchase, we offer complimentary shipping and free returns, as well as a 30-day, no questions asked return policy!"
+    },
+    {
+        "id" : 11,
+        "que" : "How do I send a gift card?",
+        "ans" : "We have two types of gift cards - physical gift cards, which can be mailed to the recipient, and eGift cards, which can be emailed.\nOur physical gift cards are sourced from FSC-certified manufacturers and - the most exciting part - come with a list of mind-blowing bird facts!\nFor now, physical gift cards are available only in the US, but they will certainly migrate to other countries soon."
+    },
+    {
+        "id" : 12,
+        "que" : "What services are you adding to keep the store from getting crowded?",
+        "ans" : "We're limiting how many people are allowed in the store at the same time. We've enabled a virtual queue and shopping appointments, along with creating ample space by removing seating and adding floor markers. Visit the Our Stores page to make an appointment.\nIf you can, mobile or tap payments are preferred."
+    },
+    {
+        "id" : 13,
+        "que" : "Have store hours changed? And when will they return to normal?",
+        "ans" : "Yes, our store hours have been modified to allow us to clean thoroughly and often. They'll differ by location, so visit the Our Stores page to find the most up to date hours.\n We'll be keeping you updated as this situation continues to evolve. With still so much uncertainty around how and when we’ll be able to return to normal, our goal is to provide customers with a safe and positive shopping experience."
+    },
+    {
+        "id" : 14,
+        "que" : "What will you be providing retail staff and customers to keep them safe?",
+        "ans" : "We’re limiting the number of customers and staff in the store to adhere to social distancing guidelines. We’ve added new sanitation stations, increased in-store cleanings, and try-ons are for sizing only using sanitized pairs.\nOur staff will be wearing masks at all times and gloves while directly assisting customers, with masks being required for everyone inside the store. We're providing disposable masks, if you need one.\nOur staff also has daily health check-ins, with access to internal support if they're experiencing symptoms. If one of our staff members is diagnosed with COVID-19, we'll immediately close the store and determine the next appropriate steps."
+    },
+    {
+        "id" : 15,
+        "que" : "Can I still return my purchase in-store, even if I bought it online?",
+        "ans" : "Yes, you can still return your purchases in-store or online, no matter where you bought it."
+    },
+    {
+        "id" : 16,
+        "que" : "How are you keeping distribution centers safe?",
+        "ans" : "Our warehouse associates have daily temperature checks and are each provided with kits that include masks, sanitizers, and gloves. We've increased facility cleanings, including fogging several times per week. Plexiglass is being installed in high traffic areas, and associates are spaced out to adhere to social distance guidelines.\nIf at any time one of our warehouse associates tests positive for COVID-19, the warehouse facility will immediately shut down for deep sanitization and a full contact tracing review. If associates are found to have been in contact with the associate with COVID-19, they will be sent for immediate testing before they can return to the facility. "
+    },
+    {
+        "id" : 17,
+        "que" : "Can I expedite my order?",
+        "ans" : "No problem! If you're in the US or the UK, select priority shipping in your checkout cart; you’ll have to cover the difference in shipping cost, but we are sure it will be worth it.\nWe don't currently offer expedited options in Canada, New Zealand or Australia, but check back for updates!"
+    },
+    {
+        "id" : 18,
+        "que" : "How do you ship?",
+        "ans" : "We offer free standard shipping on all orders over $50. For all orders under $50, there will be a $5 shipping fee. Our standard shipping takes about 5 - 7 business days to arrive from the time the order is placed. The carrier (FedEx or USPS) will be automatically selected based on the shipping address.\nAdditionally, we offer 2-business day expedited shipping starting at $12 and 1-business day expedited shipping starting at $20. The final price for both of these options will be given at checkout and is determined by order volume and shipping address.\nPlease note that we only ship and deliver on business days and that only expedited orders placed before 12:30 pm ET on a business day will ship that same day. For example, an order placed with 1-business day shipping on Thursday at 2 pm ET will ship out the next day, Friday, and arrive the following Monday."
+    },
+    {
+        "id" : 19,
+        "que" : "What if I want to cancel or change my order?",
+        "ans" : "We try to fulfill orders very quickly; that said, please email us at help@allbirds.com and we’ll see what we can do! If you’re just getting cold feet, hang on until you can give them a try–we think you’ll love them and if you don’t, you can always send them back for free within 30 days of purchase."
+    },
+    {
+        "id" : 20,
+        "que" : "What's your favorite Tree joke?",
+        "ans" : "Q: How do trees access the internet?\nA: They log on."
+    },
+    {
+        "id" : 21,
+        "que" : "What is your commitment to sustainability?",
+        "ans" : "Our goal is to do better things in a better way. To us, this means making products that reflect and respect nature!\nOur materials: All of our materials have been meticulously designed to be the most environmentally sustainable they can be. This is evident in our use of ZQ Certified Merino Wool and our outsole blend. We have some exciting products and novel natural materials in our design pipeline, so stay tuned!\nThe box: Because we sell directly to you via our website, we designed a patent pending box that is a shipping box and shoebox all in one. It uses about 40% less material, is made of 95% recycled cardboard, and is 100% recyclable – plus, we think it looks pretty cool.\nSoles4Souls: When a customer returns a pair of lightly worn Allbirds that we can’t resell, we donate it to our partner organization Soles4Souls."
+    },
+    {
+        "id" : 22,
+        "que" : "What’s your favorite Sheep joke?",
+        "ans" : "Q: What do you call a sheep covered in chocolate?\nA: A Candy Baa."
+    },
+    {
+        "id" : 23,
+        "que" : "I'm a healthcare worker! Do you still have free shoes?",
+        "ans" : "Unfortunately we only had a limited amount of shoes available for this initiative and we heard from tens of thousands of healthcare workers. Because of this, we have since run out of free shoes to provide - sorry about that!\nWith the help of our Buy One, Give One program, we're continuing to offer free pairs to those who reached out initially on Friday, March 20th when we launched this program. If we got your email then, there’s still a slight chance you’ll get a free pair, but that being said, we received tens of thousands of requests the first day and we’re still working through that list based on who wrote in first.\nIf you wrote in after March 20th, it's unlikely we'll get to you first, but we're continuing to look at ways we can help the community so stay tuned (:\nPlease reach out to help@allbirds.com if you have any additional questions and thank you for all you do!"
+    }
+]
