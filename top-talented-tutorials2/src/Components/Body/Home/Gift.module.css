@@ -1,0 +1,15 @@
+.btn3{
+    background: #212a2f;
+    color: white;
+    margin-top: 4%;
+    padding: 5%;
+    border:1px solid #212a2f;
+    font-weight: bolder;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+
+.btn3:hover{
+    background: white;
+    color: #212a2f;
+}
